@@ -27,3 +27,7 @@ npx clasp create "Awesome script" --rootDir ./dist
 ## License
 
 ISC © Money Forward Vietnam
+
+## Thanks
+
+- [Making a Gmail bot with Apps Script and TypeScript](https://blog.filippo.io/gmail-bot-with-apps-script-and-typescript/)
