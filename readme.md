@@ -17,6 +17,12 @@ Alternatively you can `git clone` or [download](https://github.com/moneyforwardv
 
 There's also a Yeoman generator (WIP).
 
+### Next steps ;)
+
+```
+npm i
+npx clasp create "Awesome script" --rootDir ./dist
+```
 
 ## License
 
